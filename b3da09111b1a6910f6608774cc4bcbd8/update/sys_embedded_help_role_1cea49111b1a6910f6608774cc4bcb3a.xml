@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_706009_test_cu_0.custom_user" name="x_706009_test_cu_0.custom_user">10ea49111b1a6910f6608774cc4bcb3a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>shalini.s</sys_created_by>
+        <sys_created_on>2023-04-18 11:06:12</sys_created_on>
+        <sys_id>1cea49111b1a6910f6608774cc4bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>10ea49111b1a6910f6608774cc4bcb3a</sys_name>
+        <sys_package display_value="Test Custom App" source="x_706009_test_cu_0">b3da09111b1a6910f6608774cc4bcbd8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Custom App">b3da09111b1a6910f6608774cc4bcbd8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1cea49111b1a6910f6608774cc4bcb3a</sys_update_name>
+        <sys_updated_by>shalini.s</sys_updated_by>
+        <sys_updated_on>2023-04-18 11:06:12</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
